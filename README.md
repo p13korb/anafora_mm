@@ -9,10 +9,10 @@
 ## Στοιχεία φοιτητή  
 ### Παναγιώτης Κορμπάς  
 ### ΑΜ: Π2013053  
-### Εκτελέσιμο: https://p13korb.github.io/Shooter/  
-### Αποθετήριο κώδικα: https://github.com/p13korb/Shooter  
-### Αποθετήριο ιστοσελίδας εργασίας περιεχομένου: https://github.com/p13korb/gr  
-### Σελιδα αναφοράς: https://p13korb.github.io/anafora_mm/
+### Εκτελέσιμο: [https://p13korb.github.io/Shooter/](https://p13korb.github.io/Shooter/)  
+### Αποθετήριο κώδικα: [https://github.com/p13korb/Shooter](https://github.com/p13korb/Shooter)  
+### Αποθετήριο ιστοσελίδας εργασίας περιεχομένου: [https://github.com/p13korb/gr](https://github.com/p13korb/gr)  
+### Σελιδα αναφοράς: [https://p13korb.github.io/anafora_mm/](https://p13korb.github.io/anafora_mm/)
 
 ## Εισαγωγή  
 Σκοπος της εργασιας αυτης ηταν να παρουμε τις οδηγιες ενος tutorial και βασιζομενοι σε αυτο και στις οδιγιες της εργασιας να κανουμε αλλαγες και να προσθεσουμε καποια παραπανω πραγματα. Το παιχνδιδι ηταν ενα κλασσικο space arcade minigame που σκοπο ειχε την επιτευξη οσο το δυντον μεγαλυτερου score. Η εργασια εγινε χρησιμοποιοντας την γλωσσα προγραμματισμου javascript και το framework phaser v2.6.2.
