@@ -40,11 +40,11 @@
 
 ## Screenshots
 
-Menu
+Menu  
 ![screenshot](https://raw.githubusercontent.com/p13korb/mm/2013053/projects/2013053/menu.png)  
 
-Level 1
-![screenshot](https://raw.githubusercontent.com/p13korb/mm/2013053/projects/2013053/level1.png) 
+Level 1  
+![screenshot](https://raw.githubusercontent.com/p13korb/mm/2013053/projects/2013053/level1.png)  
 
-Level 2
-![screenshot](https://raw.githubusercontent.com/p13korb/mm/2013053/projects/2013053/level2.png) 
+Level 2  
+![screenshot](https://raw.githubusercontent.com/p13korb/mm/2013053/projects/2013053/level2.png)
