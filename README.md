@@ -5,7 +5,7 @@
 Επιβλέπων καθηγητής: Χωριανόπουλος Κωνσταντίνος  
 
 ## Επιλογή Εργασίας   
-### Shooter (https://github.com/ioniodi/shooter)
+### Shooter ([https://github.com/ioniodi/shooter](https://github.com/ioniodi/shooter))
 ## Στοιχεία φοιτητή  
 ### Παναγιώτης Κορμπάς  
 ### ΑΜ: Π2013053  
